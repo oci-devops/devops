@@ -8,5 +8,5 @@ This technique allows the DevOps team to evaluate the new application version ag
 
 ## Deploy Using Oracle Resource Manager
 
-[![Deploy to Oracle Cloud](https://oci-resourcemanager-plugin.plugins.oci.oraclecloud.com/latest/deploy-to-oracle-cloud.svg)](https://cloud.oracle.com/resourcemanager/stacks/create?zipUrl=https://github.com/oracle-devrel/terraform-oci-arch-devops-deployment-strategies/releases/latest/download/terraform-oci-arch-devops-deployment-strategies-canary-deployments-oke-stack-latest.zip)
+[![Deploy to Oracle Cloud](https://oci-resourcemanager-plugin.plugins.oci.oraclecloud.com/latest/deploy-to-oracle-cloud.svg)](https://cloud.oracle.com/resourcemanager/stacks/create?zipUrl=https://github.com/oci-devops/devops/releases/download/v1.1/terraform-oci-arch-devops-deployment-strategies-canary-deployments-oke-stack-latest.zip)
 
